@@ -1,0 +1,12 @@
+#!/bin/bash
+
+mkdir $2
+cd $2
+cat > index.html <<HTML
+<!DOCTYPE html>
+<html><head><title>Sunvox.space</title><meta charset="utf-8"/>
+<meta http-equiv="refresh" content="0; $1"/>
+</meta></head></html>
+HTML
+
+echo "Created shortlink http://sunvox.space/$2/"
