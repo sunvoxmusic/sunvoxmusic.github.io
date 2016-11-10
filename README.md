@@ -9,7 +9,7 @@ This repository is the GitHub Pages website for <http://sunvox.space>.
 1. Clone the repo to your computer
 2. Navigate to the repo directory in the command line
 3. `chmod +x new` or the equivalent to give `new` executable permissions.
-4. Whenever you want to create a link, type `new URL_TO_REDIRECT_TO SHORTLINK_TEXT`
+4. Whenever you want to create a link, type `./new URL_TO_REDIRECT_TO SHORTLINK_TEXT`
 5. This creates a new `index.html` file in a new directory that redirects to your chosen URL.
 6. To modify, simply change the URL inside the `index.html` file of your directory
 
