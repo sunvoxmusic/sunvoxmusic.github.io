@@ -1,9 +1,13 @@
 #!/bin/bash
 
-mkdir $2
-cd $2
-cat > index.html <<HTML
+cat > $2 <<HTML
 <!DOCTYPE html>
+<!--
+
+Redirect to $1
+Shortlink $2
+
+-->
 <html>
 <head>
 <title>Redirecting...</title>
