@@ -4,7 +4,7 @@ This repository is the GitHub Pages website for <http://sunvox.space>
 
 ## Update
 
-<http://sunvox.space> is unfortunately no longer functioning as a URL shortlink domain, but will be replaced as a promotional Sunvox website. Coming soon!
+<http://sunvox.space> is unfortunately no longer functioning as a URL shortlink domain, but has been replaced as a promotional Sunvox website. Check it out!
 
 ---
 
